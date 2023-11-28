@@ -17,6 +17,10 @@ This repository contains the source code for a Web MVC E-commerce application de
 - **Backend Server:**
   - Robust backend server hosting API endpoints for communication between frontend and database.
   - Secure storage of application data in a MySQL database.
+    
+## Screenshots
+
+![img](https://live.staticflickr.com/65535/50505312657_4afb5400e1_h.jpg)
 
 ## Installation
 
