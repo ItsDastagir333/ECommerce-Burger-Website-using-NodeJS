@@ -1,6 +1,6 @@
 ---
 
-# Node.js E-commerce Project
+# ECommerce-Burger-Website-using-NodeJs
 
 This repository contains the source code for a Web MVC E-commerce application developed using Node.js, MySQL, and related technologies.
 
