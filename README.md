@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GuilhermeCarra/nodejs-ecommerce.git
+   git clone https://github.com/ItsDastagir333/ECommerce-Burger-Website-using-NodeJS.git
    ```
 
 2. Navigate to the project directory:
